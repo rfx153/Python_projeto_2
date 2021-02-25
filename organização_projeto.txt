@@ -1,0 +1,16 @@
+o que colocar neste projeto
+
+arquivo principal
+passar produtos
+valor 
+pagamento
+gerador de nota fiscal 
+calcular valor total
+
+o que melhorar?
+senha para entrada e habilitação
+banco de dados de produtos
+banco de dados de compras
+bancod de dados de funcionários no caixa e suas vendas, aqui contar a entrada e saída de dinheiro
+interface gráfica
+

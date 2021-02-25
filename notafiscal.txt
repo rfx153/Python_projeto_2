@@ -1,2 +1,2 @@
 Código   Descricao   Preco   Quantidade   Preco Total 
-123   mouse   1   12.0   12.0/n
+123   jjjj   2   23.0   46.0/n
